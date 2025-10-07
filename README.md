@@ -1,2 +1,2 @@
-# PNEUMONIA-DETECTION-AT-CHARITE-A-DEEP-LEARNING-APPROACH-FOR-CHEST-X-RAYS
-Classifying chest X-rays with a CNN to support medical diagnostics.
+This project implements a Convolutional Neural Network (CNN) using TensorFlow/Keras to identify signs of pneumonia, aiming to support faster and more accurate clinical diagnosis.
+
